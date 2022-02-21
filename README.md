@@ -1,8 +1,9 @@
 ### 👋 Hi, I’m Arjun
 
-👀 I’m interested in iOS App Development
-🌱 I’m currently learning Xcode and Swift
-📫 How to reach me vparjunmohan@gmail.com
+👀 I’m interested in iOS App Development <br />
+🌱 I’m currently learning Xcode and Swift <br />
+📫 How to reach me vparjunmohan@gmail.com <br />
+![Github stats](https://github-readme-stats.vercel.app/api?username=vparjunmohan)
 
 <!--
 **vparjunmohan/vparjunmohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
