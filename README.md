@@ -1,7 +1,8 @@
 ### 👋 Hi, I’m Arjun
 
-👀 I’m interested in iOS App Development <br />
-🌱 I’m currently learning Xcode and Swift <br />
+☺️ He/Him
+👀 I’m a iOS Developer <br />
+🌱 I’m currently working on Swipe On <br />
 📫 How to reach me vparjunmohan@gmail.com <br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vparjunmohan)
 
