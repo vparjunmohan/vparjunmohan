@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Arjun
 
-☺️ He/Him
+☺️ He/Him <br />
 👀 I’m a iOS Developer <br />
 🌱 I’m currently working on Swipe On <br />
 📫 How to reach me vparjunmohan@gmail.com <br />
