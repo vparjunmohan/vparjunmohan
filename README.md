@@ -6,7 +6,7 @@
 📫 How to reach me vparjunmohan@gmail.com <br />
 <br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vparjunmohan&theme=buefy)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vparjunmohan&layout=compact)](https://github.com/vparjunmohan/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vparjunmohan&layout=compact)](https://github.com/vparjunmohan/github-readme-stats)
 
 
 <!--
