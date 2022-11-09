@@ -2,7 +2,7 @@
 
 ☺️ He/Him <br />
 👀 I’m an iOS Developer <br />
-🌱 I’m currently working on Swipe On <br />
+🌱 I’m currently working on Flueny - Translator App <br />
 📫 How to reach me vparjunmohan@gmail.com <br />
 <br /> <br />
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vparjunmohan&theme=buefy)
