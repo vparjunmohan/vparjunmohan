@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center" >
   <a href="https://www.linkedin.com/in/vparjunmohan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <div align="center">
@@ -24,7 +24,7 @@
 
 - :zap: In my free time, I write Dev blog for my personal projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=social&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vparjunmohan/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/vparjunmohan/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
