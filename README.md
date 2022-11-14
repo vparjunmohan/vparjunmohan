@@ -10,7 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=vparjunmohan&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hi, I’m Arjun Mohan
+  Hey,<span> I’m Arjun
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -18,19 +18,18 @@
 
 - 📱 I'm a tech enthusiast and an iOS Developer from India
 
-- :telescope: 1.5+ years of experience in developing iOS applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :telescope: 1.5+ years of experience in developing iOS applications 
 
-- :seedling: Exploring Google's MLKit.
+- :seedling: Exploring Google's MLKit
 
-- :zap: In my free time, I write Dev blog for my personal projects.
+- :zap: In my free time, I write Dev blog for my personal projects
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/vparjunmohan/)
-
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/vparjunmohan/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>&nbsp;
+  <span><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="30" height="30"/>&nbsp;
 </div>
 
 ### :fire: My Stats :
