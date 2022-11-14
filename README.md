@@ -13,9 +13,8 @@
   Hi, I’m Arjun Mohan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
-### 👨‍🦱_technologist: About Me :
+### 👨‍🦱 About Me :
 I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: iOS developer with 1.5+ years of experience in developing iOS applications.
 
@@ -23,8 +22,8 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I write Dev blog for my personal projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vparjunmohan/)
----
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vparjunmohan/)
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -32,11 +31,11 @@ I am an iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
 </div>
----
 
 ### :fire: My Stats :
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=vparjunmohan&theme=buefy)
+<br /><br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vparjunmohan&layout=compact&theme=buefy)](https://github.com/vparjunmohan/github-readme-stats)
 
 
