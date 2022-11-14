@@ -22,7 +22,7 @@
 
 - :zap: In my free time, I write Dev blog for my personal projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vparjunmohan/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=social&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vparjunmohan/)
 
 
 ### :hammer_and_wrench: Languages and Tools :
