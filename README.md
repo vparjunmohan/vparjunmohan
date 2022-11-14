@@ -15,7 +15,9 @@
 </h1>
 
 ### 👨‍🦱 About Me :
+
 - 📱 I'm a tech enthusiast and an iOS Developer from India
+
 - :telescope: 1.5+ years of experience in developing iOS applications. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :seedling: Exploring Google's MLKit.
