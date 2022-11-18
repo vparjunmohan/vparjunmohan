@@ -20,7 +20,7 @@
 
 - :telescope: 1.5+ years of experience in developing iOS applications 
 
-- :seedling: Exploring Google's MLKit
+- :seedling: Exploring Google's MLKit for Fluency - Translator app
 
 - :zap: In my free time, I write Dev blog for my personal projects
 
