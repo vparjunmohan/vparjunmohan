@@ -32,12 +32,6 @@
   <span><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="30" height="30"/>&nbsp;
 </div>
 
-### :fire: My Stats :
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=vparjunmohan&theme=buefy)
-<br /><br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vparjunmohan&layout=compact&theme=buefy)](https://github.com/vparjunmohan/github-readme-stats)
-
 
 <!-- ### 👋 Hi, I’m Arjun Mohan
 
