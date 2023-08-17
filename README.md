@@ -18,7 +18,7 @@
 
 - 📱 I'm a tech enthusiast and an iOS Developer from India
 
-- :telescope: 1.5+ years of experience in developing iOS applications
+- :telescope: 2.5+ years of experience in developing iOS applications
 
 - :seedling: Exploring Google's MLKit for Fluency - Translator app
 
