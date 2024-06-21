@@ -18,7 +18,7 @@
 
 - 📱 I'm a tech enthusiast and an iOS Developer from India
 
-- :telescope: 2 years and 10 months of experience in developing iOS applications
+- :telescope: 3+ experience in developing iOS applications
 
 - :seedling: Developing Color Deck App
 
