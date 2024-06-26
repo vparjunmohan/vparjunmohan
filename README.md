@@ -16,21 +16,16 @@
 
 ### 👨‍🦱 About Me :
 
-- 📱 I'm a tech enthusiast and an iOS Developer from India
+- 📱 Hi there! I'm Arjun, an enthusiastic iOS developer with a passion for creating intuitive and high-performing applications. With a solid foundation in Swift and a keen eye for UI/UX design, I enjoy transforming innovative ideas into reality through mobile apps.
 
-- :telescope: 3+ experience in developing iOS applications
-
-- :seedling: Developing Color Deck App
-
-- :zap: In my free time, I write Dev blog for my personal projects
+### :hammer_and_wrench: Tech stack:
+- :seedling: Programming Languages: Swift, Objective-C, Python
+- ⭐ Frameworks and Tools: SwiftUI, UIKit, CoreData, Combine, Alamofire
+- :zap: Development Tools: Xcode, Git, CocoaPods, Fastlane
+- :telescope: Design Tools: Figma
+- 🛜 APIs and Networking: RESTful APIs, JSON
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vparjunmohan-blue?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/vparjunmohan/) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>&nbsp;
-  <span><img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="30" height="30"/>&nbsp;
-</div>
 
 
 <!-- ### 👋 Hi, I’m Arjun Mohan
