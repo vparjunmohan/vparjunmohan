@@ -15,8 +15,8 @@
 </h1>
 
 ### 👨‍🦱 About Me :
-
-- 📱 Hi there! I'm Arjun, an enthusiastic iOS developer with a passion for creating intuitive and high-performing applications. With a solid foundation in Swift and a keen eye for UI/UX design, I enjoy transforming innovative ideas into reality through mobile apps.
+ 
+📱 Hi there! I'm Arjun, an enthusiastic iOS developer with a passion for creating intuitive and high-performing applications. With a solid foundation in Swift and a keen eye for UI/UX design, I enjoy transforming innovative ideas into reality through mobile apps.
 
 ### :hammer_and_wrench: Tech stack:
 - :seedling: Programming Languages: Swift, Objective-C, Python
