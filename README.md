@@ -14,7 +14,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 👨‍🦱 About Me :
+### 👨‍🦱 About me :
  
 📱 Hi there! I'm Arjun, an enthusiastic iOS developer with a passion for creating intuitive and high-performing applications. With a solid foundation in Swift and a keen eye for UI/UX design, I enjoy transforming innovative ideas into reality through mobile apps.
 
