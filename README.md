@@ -20,8 +20,8 @@
 
 ### :hammer_and_wrench: Tech stack:
 - :seedling: Programming Languages: Swift, Objective-C
-- ⭐ Frameworks and Tools: SwiftUI, UIKit, CoreData, Combine, Alamofire
-- :zap: Development Tools: Xcode, Git, CocoaPods, Fastlane
+- ⭐ Frameworks and Tools: SwiftUI, UIKit, Alamofire
+- :zap: Development Tools: Xcode, Git, CocoaPods
 - :telescope: Design Tools: Figma
 - 🛜 APIs and Networking: RESTful APIs, JSON
 
